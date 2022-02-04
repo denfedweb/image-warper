@@ -1,0 +1,9 @@
+{
+  "name": "image-warper",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "https://github.com/denfedweb/image-warper",
+  "author": "Denis Fedorovici <denfedweb@mail.ru>",
+  "license": "MIT",
+  "type": "module"
+}
